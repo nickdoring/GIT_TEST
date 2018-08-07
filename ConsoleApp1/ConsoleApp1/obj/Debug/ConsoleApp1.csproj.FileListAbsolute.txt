@@ -1,0 +1,7 @@
+C:\c_sharp\GIT_TEST\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\c_sharp\GIT_TEST\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\c_sharp\GIT_TEST\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\c_sharp\GIT_TEST\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\c_sharp\GIT_TEST\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\c_sharp\GIT_TEST\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\c_sharp\GIT_TEST\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
