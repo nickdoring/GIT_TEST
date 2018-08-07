@@ -4,4 +4,4 @@ Info
 
 Allting går bra nu
 
-1
+Nu går allt ännu bättre!
